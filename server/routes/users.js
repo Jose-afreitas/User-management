@@ -1,5 +1,5 @@
 var express = require('express');
-var assert = require('assert')
+var assert = require('assert');
 var restify = require('restify-clients');
 var router = express.Router();
 
@@ -13,10 +13,11 @@ router.get('/', function (req, res, next) {
 
   client.get('/users', function (err, request, response, obj) {
     assert.ifError(err);
-
-    console.log(JSON.stringify(obj, null, 2));
+    res.end(JSON.stringify(obj, null, 2));
   });
 
 });
 
 module.exports = router;
+
+
