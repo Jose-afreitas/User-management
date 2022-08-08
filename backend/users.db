@@ -1,3 +1,8 @@
 {"_name":"Rodolfo Souza","_email":"rodolfosouza@teste.com.br","_password":"1234567","_id":"DEkXLAIqIKpOMgOP"}
 {"_name":"Glaucio","_email":"glaucio@teste.com.br","_password":"123456789","_id":"P1ZQuOgoL8lfcMdE"}
+{"_name":"usuario","_gender":"M","_birth":"","_country":"Brazil","_email":"usuario@gmail.com","_password":"1234578","_photo":"dist/img/boxed-bg.jpg","_admin":false,"_register":"2022-08-08T18:42:37.510Z","_id":"PCJ5TreUDMfepKRU"}
 {"_name":"Jose Augusto Almeida de Freitas","_email":"joseaugusto@teste.com.br","_password":"12345678899","_id":"X4kzpVlRggj74AmI"}
+{"_name":"Paulo Henrique","_gender":"M","_birth":"1992-09-20","_country":"Brazil","_email":"paulo@teste.com.br","_password":"paulo12345","_photo":"dist/img/boxed-bg.jpg","_admin":true,"_register":"2022-08-08T18:49:34.332Z","_id":"e6zfZ84ZXKpHgy7F"}
+{"_name":"Rodolfo Souza dio","_gender":"M","_birth":"","_country":"","_email":"rodolfosouza@teste.com.br","_password":"1234567","_admin":false,"_register":"2022-08-08T18:53:56.330Z","_id":"DEkXLAIqIKpOMgOP"}
+{"_name":"Rodolfo Souza dionizio","_gender":"M","_birth":"","_country":"","_email":"rodolfosouza@teste.com.br","_password":"1234567","_admin":false,"_register":"2022-08-08T18:57:38.703Z","_id":"DEkXLAIqIKpOMgOP"}
+{"_name":"Rodolfo Souza ","_gender":"M","_birth":"","_country":"","_email":"rodolfosouza@teste.com.br","_password":"1234567","_admin":false,"_register":"2022-08-08T19:39:33.337Z","_id":"DEkXLAIqIKpOMgOP"}
